@@ -20,7 +20,7 @@ A simple Python news article scraper that extracts article information from web 
 2. Install the required dependencies:
 
 ```bash
-pip install news-please
+pip install pip install newspaper4k
 ```
 
 **Note:** The original installation command in the code comments (`pip install newspaper4k`) is incorrect. This project uses `news-please`, not `newspaper4k`.
